@@ -1,0 +1,24 @@
+# requirements.txt
+# ================================
+# AIRFLOW PROVIDERS
+# ================================
+apache-airflow-providers-postgres
+apache-airflow-providers-mongo
+
+# ================================
+# DATABASE DRIVERS
+# ================================
+psycopg2-binary
+pymongo
+
+# ================================
+# DATA PROCESSING
+# ================================
+pandas
+numpy
+
+# ================================
+# UTILITIES
+# ================================
+python-dotenv
+faker
